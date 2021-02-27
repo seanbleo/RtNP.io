@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Media Design for Digital Performance: Real-time Networked Performance using Live Volumetric Performance
 
 You can use the [editor on GitHub](https://github.com/seanbleo/RtNP.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
